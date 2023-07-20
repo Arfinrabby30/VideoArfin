@@ -1,0 +1,1 @@
+web: gunicorn ArfinStream.wsgi --log-file -
